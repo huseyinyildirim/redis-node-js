@@ -1,4 +1,4 @@
-# Node.JS ile Redis
+# Node.js ile Redis
 
 ## Kurulum
 
